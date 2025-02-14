@@ -108,13 +108,22 @@
             opacity: 1;
         }
 
-        #Link{
+        #link{
             display:inline-block;
             text-align: center;
             align-self: auto;
             width: 100vw;
-            
-            
-            
+            color: red;
+        }
+
+        #textdiv{
+            text-align: center;
+            color: white;
+        }
+
+        #text{
+            width: 60vw;
+            display:inline-block;
+            font-size: 35px;
         }
 
